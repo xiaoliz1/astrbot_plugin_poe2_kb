@@ -1,0 +1,7 @@
+name: astrbot_plugin_poe2_kb
+display_name: 流放之路2知识库路由
+short_desc: 抓取 Poe2DB 简繁页面并将相关资料路由给大模型
+desc: 将 Poe2DB.tw/cn 与 Poe2DB.tw/tw 页面清洗后导入 AstrBot 原生知识库，并在流放之路2话题中按简繁语言检索注入相关片段。
+version: 1.0.0
+author: Codex
+astrbot_version: ">=4.24.0,<5.0.0"
